@@ -24,4 +24,14 @@
 
 - Satellite Data Analysis & Visualization: Developed interactive dashboard using R Shiny, Plotly, and Laravel for vulnerability, marginalization, and risk assessments. Analyzed MODIS/Landsat imagery using GEE and ArcGIS 10.8 to compute NDVI trends in Nepal's rangelands.
 
-## Work Expereinceeee
+### Aayulogic Pvt. Ltd. (Merojob.com), Python and Django Developer (January 2017 - October 2017)
+
+- Backend Development: Developed and maintained backend systems using Python and the Django web framework, focusing on RESTful API design and implementation.
+
+- UI Development: Contributed to the creation of a new user interface (UI) leveraging the Django framework, emphasizing component reusability and modular design principles.
+
+- Issue Resolution & Documentation: Addressed and resolved ongoing software defects and challenges, ensuring code quality and stability. Documented project progress and technical specifications for future reference.
+
+- Database Design: Designed and implemented backend database schemas and models using Python and Django's ORM (Object-Relational Mapper) to optimize data storage and retrieval.
+
+- Collaboration & Feedback Integration: Worked closely with internal teams to incorporate end-user feedback into software enhancements, emphasizing iterative development and user-centric design.
