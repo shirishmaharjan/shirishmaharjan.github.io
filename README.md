@@ -35,3 +35,30 @@
 - Database Design: Designed and implemented backend database schemas and models using Python and Django's ORM (Object-Relational Mapper) to optimize data storage and retrieval.
 
 - Collaboration & Feedback Integration: Worked closely with internal teams to incorporate end-user feedback into software enhancements, emphasizing iterative development and user-centric design.
+
+## PUBLICATIONS
+
+- SHRESTHA, U. B., SHRESTHA, B. R., MAHARJAN, S., DHUNGEL, U., SHRESTHA, S., LAMICHHANE, B., & SHRESTHA, B. B. 
+(2023). Impacts of COVID-19 on conservation programs and research activities in Nepal. Global Ecology and 
+Conservation, e02628. DOI: https://doi.org/10.1016/j.gecco.2023.e02628 
+- Shrestha S, Shrestha UB, Shrestha BR, Maharjan S, Udas E, Aryal K. 2024. Socio-phychological determinants of 
+adoption of climate resilient agricultural solutions. Agricultural Systems. (under review) 
+- Shrestha UB, Shrestha BR, Shrestha S, Dhungel U, Maharjan S, Prajapati J. 2024. Coping Strategies of local tourism 
+business during the COVID-19 pandemic. Heliyon (under review). 
+- Presented a paper entitled "Blue Brain" at the 8th National Students Conference on Information Technology and the 
+3rd International IT Conference on ICT for Intelligent Computing. (27.06.2016).
+
+## Skills
+
+- Languages: Nepal Bhasa (Native), Nepali (Native), English (Fluent), German (Intermediate)
+- Programming Languages: R, Python, SQL, Bash
+- Databases: PostgreSQL, MySQL, MongoDB, NoSQL Databases
+- Machine Learning: Scikit-learn, TensorFlow, Keras, PyTorch, NLTK, XGBoost, LightGBM, Model Deployment (e.g., Flask, FastAPI), MLOps
+- Statistics: Time Series Analysis, Regression Analysis, Hypothesis Testing, Parametric/Non-parametric Tests, Bayesian Statistics, Experimental Design, Causal Inference
+- DevOps Tools: Git, Docker, CI/CD (e.g., Jenkins, GitHub Actions), PyTest, Linux/Unix Shell Scripting, Version Control
+- Cloud Computing: AWS (EC2, S3, Lambda), Google Cloud Platform (GCP), Azure, Google Colab, Paperspace
+- Data Visualization: Ggplot2, Matplotlib, Seaborn, Bokeh, Shiny, Dash, Plotly, Altair, Tableau, Power BI, D3.js
+- Geospatial Tools: ArcGIS, QGIS, Google Earth Engine (GEE), GeoPandas, Remote Sensing Software (e.g., ENVI), GDAL/OGR
+- Data Wrangling & ETL: Pandas, NumPy, Dask, Apache Spark, Data Cleaning, Feature Engineering
+- Big Data Technologies: Hadoop, Spark, Hive, Kafka
+- Operating Systems: Windows, Linux, MacOS
