@@ -1,4 +1,4 @@
-### Data-driven climate scientist proficient in remote sensing and natural science data analysis. Expertise in python, R, mysql, aws for extracting insights from complex climate datasets and addressing environmental challenges. Dedicated to leveraging technical skills for sustainable solutions.
+### Data Analyst specializing in remote sensing, natural science data analysis and big data analysis with ML/AI applications. Proficient in Python, R, MySQL, and AWS for extracting insights from complex datasets.
 
 ## Education 
 
