@@ -2,6 +2,9 @@
 
 ## Education 
 
+- Hochschule Rhein-Waal University of Applied Sciences
+- M.Sc. Information Engineering and Computer Science 
+
 ## Work Experience
 
 ## Work Expereinceeee
